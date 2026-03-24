@@ -16,6 +16,7 @@ Here is what you know about the church website and its sections:
 - CONNECT / COMMUNITY: Join a cell group, volunteer, or get involved in ministry
 - CAMPUSES: We have multiple campuses globally. Find the one nearest you
 - PRAYER: Submit a prayer request through the Connect section
+- PRAYER REQUESTS: Submit a personal prayer request through the "Prayer" section. The form accepts your name, email, prayer category (Healing, Family, Financial Breakthrough, etc.), your request details, and you can mark it as urgent. Our pastoral team personally prays over every request and responds within 24-48 hours. All requests are strictly confidential.
 - EVENTS: Upcoming church events and special services
 - CONTACT: Reach us via the contact form or visit in person
 
