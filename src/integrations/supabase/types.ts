@@ -14,7 +14,48 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      prayer_requests: {
+        Row: {
+          category: string
+          created_at: string
+          email: string
+          id: string
+          is_urgent: boolean
+          name: string
+          pastoral_notes: string | null
+          phone: string | null
+          request: string
+          status: string
+          updated_at: string
+        }
+        Insert: {
+          category?: string
+          created_at?: string
+          email: string
+          id?: string
+          is_urgent?: boolean
+          name: string
+          pastoral_notes?: string | null
+          phone?: string | null
+          request: string
+          status?: string
+          updated_at?: string
+        }
+        Update: {
+          category?: string
+          created_at?: string
+          email?: string
+          id?: string
+          is_urgent?: boolean
+          name?: string
+          pastoral_notes?: string | null
+          phone?: string | null
+          request?: string
+          status?: string
+          updated_at?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
