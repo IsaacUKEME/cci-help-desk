@@ -135,7 +135,7 @@ export default function HelpDeskChat() {
 
       {/* Chat panel */}
       {open && (
-        <div className="fixed bottom-6 right-6 z-50 w-[340px] sm:w-[380px] h-[540px] flex flex-col bg-church-card border border-border rounded-2xl shadow-[0_20px_60px_rgba(0,0,0,0.8)] overflow-hidden">
+        <div className="fixed bottom-6 right-6 z-50 w-[340px] sm:w-[380px] h-[540px] flex flex-col bg-card border border-border rounded-2xl shadow-card overflow-hidden">
           {/* Header */}
           <div className="bg-gradient-orange px-4 py-3 flex items-center justify-between shrink-0">
             <div className="flex items-center gap-3">
